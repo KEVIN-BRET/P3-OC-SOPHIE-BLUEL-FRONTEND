@@ -2,7 +2,7 @@
 import { errorDisplay } from "./errordisplay.js";
 
 // Url de l'api :
-const apiUrl = "http://api.sophiebluel.kevinbret.fr/api/";
+const apiUrl = "https://api.sophiebluel.kevinbret.fr/api/";
 
 //*--- Affichage en mode édition :
 // Si le token est présent ..
